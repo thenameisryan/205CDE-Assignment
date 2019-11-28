@@ -1,5 +1,5 @@
 # Endgame
-🎮 A computer building website.
+🎮 A computer building website
 
 ## Languages used for this project
 Php, Mysql, Javascript, JQuery
